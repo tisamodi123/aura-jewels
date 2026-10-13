@@ -1,0 +1,59 @@
+/* Jewellery Table Css */
+
+.jewelleryTable table {
+  width: 130%;
+}
+
+.jewelleryTable table tbody tr td {
+  border-bottom: 1px solid #e4e8ee;
+  padding: 12px;
+  font-size: 0.87rem;
+  text-align: left;
+}
+.jewelleryTable table thead tr th {
+  padding: 12px;
+  font-weight: 500;
+  font-size: 0.87rem;
+  text-align: left;
+}
+.jewelleryTable table thead tr {
+  background-color: #f5f8fc;
+  color: #656b7b;
+}
+
+.jewelleryTable table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+/* Coupon Table Css */
+
+.couponTable table {
+  width: 130%;
+}
+
+.couponTable table tbody tr td {
+  border-bottom: 1px solid #e4e8ee;
+  padding: 12px;
+  font-size: 0.87rem;
+  text-align: left;
+}
+.couponTable table thead tr th {
+  padding: 12px;
+  font-weight: 500;
+  font-size: 0.87rem;
+  text-align: left;
+}
+.couponTable table thead tr {
+  background-color: #f5f8fc;
+  color: #656b7b;
+}
+
+.couponTable table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+/* Global table header text and sorting icons left alignment override */
+.jewelleryTable table thead tr th > div,
+.couponTable table thead tr th > div {
+  justify-content: flex-start !important;
+}

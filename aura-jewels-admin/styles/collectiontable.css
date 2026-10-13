@@ -1,0 +1,770 @@
+.collectionTable {
+  overflow-x: auto;
+  width: 100%;
+}
+
+.collectionTable table {
+  width: 100%;
+}
+
+.collectionTable table tbody tr td {
+  border-bottom: 1px solid #e4e8ee;
+  padding: 12px;
+  font-size: 0.87rem;
+  text-align: left;
+  white-space: nowrap;
+}
+
+.collectionTable table thead tr th {
+  padding: 12px;
+  font-weight: 500;
+  font-size: 0.87rem;
+  text-align: left;
+  white-space: nowrap;
+}
+
+.collectionTable table thead tr {
+  background-color: #f5f8fc;
+  color: #656b7b;
+}
+
+.collectionTable table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+/* Product Category Table Css */
+
+.productCategoryTable table {
+  width: 100%;
+}
+
+.productCategoryTable table tbody tr td {
+  border-bottom: 1px solid #e4e8ee;
+  padding: 8px;
+  font-size: 0.87rem;
+  text-align: left;
+}
+
+.productCategoryTable table thead tr th {
+  padding: 8px;
+  font-weight: 500;
+  font-size: 0.87rem;
+  text-align: left;
+}
+
+.productCategoryTable table thead tr {
+  background-color: #f5f8fc;
+  color: #656b7b;
+}
+
+.productCategoryTable table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+/* Category Table Css */
+
+.categoryTable table {
+  width: 100%;
+}
+
+.categoryTable table tbody tr td {
+  border-bottom: 1px solid #e4e8ee;
+  padding: 12px;
+  font-size: 0.87rem;
+  text-align: left;
+}
+
+.categoryTable table thead tr th {
+  padding: 12px;
+  font-weight: 500;
+  font-size: 0.87rem;
+  text-align: left;
+}
+
+.categoryTable table thead tr {
+  background-color: #f5f8fc;
+  color: #656b7b;
+}
+
+.categoryTable table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+/* Parameter Table Css */
+
+.parameterTable table {
+  width: 100%;
+}
+
+.parameterTable table tbody tr td {
+  border-bottom: 1px solid #e4e8ee;
+  padding: 12px;
+  font-size: 0.87rem;
+  text-align: left;
+}
+
+.parameterTable table thead tr th {
+  padding: 12px;
+  font-weight: 500;
+  font-size: 0.87rem;
+  text-align: left;
+}
+
+.parameterTable table thead tr {
+  background-color: #f5f8fc;
+  color: #656b7b;
+}
+
+.parameterTable table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+/* Karat Gravity Table Css */
+
+.karatPurityTable table {
+  width: 100%;
+}
+
+.karatPurityTable table tbody tr td {
+  border-bottom: 1px solid #e4e8ee;
+  padding: 12px;
+  font-size: 0.87rem;
+  text-align: left;
+}
+
+.karatPurityTable table thead tr th {
+  padding: 12px;
+  font-weight: 500;
+  font-size: 0.87rem;
+  text-align: left;
+}
+
+.karatPurityTable table thead tr {
+  background-color: #f5f8fc;
+  color: #656b7b;
+}
+
+.karatPurityTable table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+/* Vendor Table Css */
+
+.vendorTable table {
+  width: 100%;
+}
+
+.vendorTable table tbody tr td {
+  border-bottom: 1px solid #e4e8ee;
+  padding: 12px;
+  font-size: 0.87rem;
+  text-align: left;
+}
+
+.vendorTable table thead tr th {
+  padding: 12px;
+  font-weight: 500;
+  font-size: 0.87rem;
+  text-align: left;
+}
+
+.vendorTable table thead tr {
+  background-color: #f5f8fc;
+  color: #656b7b;
+}
+
+.vendorTable table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+/* Price and Discount Table Css */
+
+.priceDiscountTable table {
+  width: 100%;
+}
+
+.priceDiscountTable table tbody tr td {
+  border-bottom: 1px solid #e4e8ee;
+  padding: 12px;
+  font-size: 0.87rem;
+  text-align: left;
+}
+
+.priceDiscountTable table thead tr th {
+  padding: 12px;
+  font-weight: 500;
+  font-size: 0.87rem;
+  text-align: left;
+}
+
+.priceDiscountTable table thead tr {
+  background-color: #f5f8fc;
+  color: #656b7b;
+}
+
+.priceDiscountTable table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+/* Diamond Margin Table Css */
+
+.diamondMarginTable table {
+  width: 100%;
+}
+
+.diamondMarginTable table tbody tr td {
+  border-bottom: 1px solid #e4e8ee;
+  padding: 8px;
+  font-size: 0.87rem;
+  text-align: left;
+}
+
+.diamondMarginTable table thead tr th {
+  padding: 8px;
+  font-weight: 500;
+  font-size: 0.87rem;
+  text-align: left;
+}
+
+.diamondMarginTable table thead tr {
+  background-color: #f5f8fc;
+  color: #656b7b;
+}
+
+.diamondMarginTable table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+.productTable table {
+  width: 100%;
+}
+
+.productTable table tbody tr td {
+  border-bottom: 1px solid #e4e8ee;
+  padding: 14px 8px;
+  font-size: 0.87rem;
+  text-align: left;
+}
+
+.productTable table tbody tr td:nth-child(1) {
+  border-bottom: 1px solid #e4e8ee;
+  padding: 8px;
+
+  width: 5%;
+  font-size: 0.87rem;
+  text-align: left;
+}
+
+.productTable table tbody tr td:nth-child(2) {
+  text-align: left;
+}
+
+.productTable table thead tr th {
+  padding: 8px;
+  font-weight: 500;
+  font-size: 0.87rem;
+  text-align: left;
+}
+
+.productTable table thead tr {
+  background-color: #f5f8fc;
+  color: #656b7b;
+}
+
+.productTable table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+/* Upload Files Table Css */
+
+.uploadFilesTable table {
+  width: 100%;
+}
+
+.uploadFilesTable table tbody tr td {
+  border-bottom: 1px solid #e4e8ee;
+  padding: 14px 8px;
+  font-size: 0.87rem;
+  text-align: left;
+}
+
+.uploadFilesTable table thead tr th {
+  padding: 8px;
+  font-weight: 500;
+  font-size: 0.87rem;
+  text-align: left;
+}
+
+.uploadFilesTable table thead tr {
+  background-color: #f5f8fc;
+  color: #656b7b;
+}
+
+.uploadFilesTable table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+/* Section Table Css */
+
+.sectionTable table {
+  width: 130%;
+  overflow: auto;
+}
+
+.sectionTable table tbody tr td {
+  border-bottom: 1px solid #e4e8ee;
+  padding: 14px 8px;
+  font-size: 0.87rem;
+  text-align: left;
+}
+
+.sectionTable table thead tr th {
+  padding: 8px;
+  font-weight: 500;
+  font-size: 0.87rem;
+  text-align: left;
+}
+
+.sectionTable table thead tr {
+  background-color: #f5f8fc;
+  color: #656b7b;
+}
+
+.sectionTable table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+/* Section Table 2 Css */
+
+.sectionTable2 table {
+  width: 100%;
+  overflow: auto;
+}
+
+.sectionTable2 table tbody tr td {
+  border-bottom: 1px solid #e4e8ee;
+  padding: 14px 8px;
+  font-size: 0.87rem;
+  text-align: left;
+}
+
+.sectionTable2 table thead tr th {
+  padding: 8px;
+  font-weight: 500;
+  font-size: 0.87rem;
+  text-align: left;
+}
+
+.sectionTable2 table thead tr {
+  background-color: #f5f8fc;
+  color: #656b7b;
+}
+
+.sectionTable2 table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+/* Role And Permisiion Css */
+
+.rolePermissionTable table {
+  width: 100%;
+  overflow: auto;
+}
+
+.rolePermissionTable table tbody tr td {
+  border-bottom: 1px solid #e4e8ee;
+  padding: 14px 8px;
+  font-size: 0.87rem;
+  text-align: left;
+}
+
+.rolePermissionTable table thead tr th {
+  padding: 8px;
+  font-weight: 500;
+  font-size: 0.87rem;
+  text-align: left;
+}
+
+.rolePermissionTable table thead tr {
+  background-color: #f5f8fc;
+  color: #656b7b;
+}
+
+.rolePermissionTable table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+.rolePermissionTable table thead tr th:nth-child(1) {
+  text-align: left;
+  display: flex;
+  justify-content: start;
+  padding-left: 24px;
+}
+
+.rolePermissionTable table tbody tr td:nth-child(1) {
+  text-align: left;
+  padding-left: 24px;
+}
+
+.rolePermissionTable table thead tr th:nth-child(3) {
+  text-align: right;
+  display: flex;
+  justify-content: end;
+  padding-right: 24px;
+}
+
+.rolePermissionTable table tbody tr td:nth-child(3) {
+  text-align: right;
+  padding-right: 24px;
+}
+
+/* Role Caption Table Css */
+
+.roleCaption table {
+  width: 100%;
+  overflow: auto;
+}
+
+.roleCaption table tbody tr td {
+  border-bottom: 1px solid #e4e8ee;
+  padding: 14px 8px;
+  font-size: 0.87rem;
+  text-align: left;
+}
+
+.roleCaption table thead tr th {
+  padding: 8px;
+  font-weight: 500;
+  font-size: 0.87rem;
+  text-align: left;
+}
+
+.roleCaption table thead tr {
+  background-color: #f5f8fc;
+  color: #656b7b;
+}
+
+.roleCaption table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+/* Shipping Table Css */
+
+.shippingTable table {
+  width: 100%;
+  overflow: auto;
+}
+
+.shippingTable table tbody tr td {
+  border-bottom: 1px solid #e4e8ee;
+  padding: 14px 8px;
+  font-size: 0.87rem;
+  text-align: left;
+}
+
+.shippingTable table thead tr th {
+  padding: 8px;
+  font-weight: 500;
+  font-size: 0.87rem;
+  text-align: left;
+}
+
+.shippingTable table thead tr {
+  background-color: #f5f8fc;
+  color: #656b7b;
+}
+
+.shippingTable table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+/* TAX Table Css */
+
+.taxTable table {
+  width: 100%;
+  overflow: auto;
+}
+
+.taxTable table tbody tr td {
+  border-bottom: 1px solid #e4e8ee;
+  padding: 14px 8px;
+  font-size: 0.87rem;
+  text-align: left;
+}
+
+.taxTable table thead tr th {
+  padding: 8px;
+  font-weight: 500;
+  font-size: 0.87rem;
+  text-align: left;
+}
+
+.taxTable table thead tr {
+  background-color: #f5f8fc;
+  color: #656b7b;
+}
+
+.taxTable table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+.taxTable table thead tr th:nth-child(1) {
+  text-align: left;
+  padding-left: 3%;
+}
+
+.taxTable table tbody tr td:nth-child(1) {
+  text-align: left;
+  padding-left: 3%;
+}
+
+.taxTable table thead tr th:nth-child(3) {
+  text-align: right;
+  padding-right: 3%;
+}
+
+.taxTable table tbody tr td:nth-child(3) {
+  text-align: right;
+  padding-right: 3%;
+}
+
+/*Language and Currency Table Css */
+
+.langCurrTable table {
+  width: 100%;
+  overflow: auto;
+}
+
+.langCurrTable table tbody tr td {
+  border-bottom: 1px solid #e4e8ee;
+  padding: 14px 8px;
+  font-size: 0.87rem;
+  text-align: left;
+}
+
+.langCurrTable table thead tr th {
+  padding: 8px;
+  font-weight: 500;
+  font-size: 0.87rem;
+  text-align: left;
+}
+
+.langCurrTable table thead tr {
+  background-color: #f5f8fc;
+  color: #656b7b;
+}
+
+.langCurrTable table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+/*Customer Table Css */
+
+.customerTable table {
+  width: 100%;
+  overflow: auto;
+}
+
+.customerTable table tbody tr td {
+  border-bottom: 1px solid #e4e8ee;
+  padding: 14px 8px;
+  font-size: 0.87rem;
+  text-align: left;
+}
+
+.customerTable table thead tr th {
+  padding: 8px;
+  font-weight: 500;
+  font-size: 0.87rem;
+  text-align: left;
+}
+
+.customerTable table thead tr {
+  background-color: #f5f8fc;
+  color: #656b7b;
+}
+
+.customerTable table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+/* Diamond Table Css */
+
+.diamonddetailTable table {
+  width: 100%;
+  overflow: auto;
+}
+
+.diamonddetailTable table tbody tr td {
+  border-bottom: 1px solid #e4e8ee;
+  padding: 14px 8px;
+  font-size: 0.87rem;
+  text-align: left;
+}
+
+.diamonddetailTable table thead tr th {
+  padding: 8px;
+  font-weight: 500;
+  font-size: 0.87rem;
+  text-align: left;
+}
+
+.diamonddetailTable table thead tr {
+  background-color: #f5f8fc;
+  color: #656b7b;
+}
+
+.diamonddetailTable table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+/*Abondond Checkout Table Css */
+
+.abondendCheckoutTable table {
+  width: 100%;
+  overflow: auto;
+}
+
+.abondendCheckoutTable table tbody tr td {
+  border-bottom: 1px solid #e4e8ee;
+  padding: 14px 8px;
+  font-size: 0.87rem;
+  text-align: left;
+}
+
+.abondendCheckoutTable table thead tr th {
+  padding: 8px;
+  font-weight: 500;
+  font-size: 0.87rem;
+  text-align: left;
+}
+
+.abondendCheckoutTable table thead tr {
+  background-color: #f5f8fc;
+  color: #656b7b;
+}
+
+.abondendCheckoutTable table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+/* Main Cart Table */
+
+.mainCartTable table {
+  width: 100%;
+  overflow: auto;
+}
+
+.mainCartTable table tbody tr td {
+  border-bottom: 1px solid #e4e8ee;
+  padding: 14px 8px;
+  font-size: 0.87rem;
+  text-align: left;
+}
+
+.mainCartTable table thead tr th {
+  padding: 8px;
+  font-weight: 500;
+  font-size: 0.87rem;
+  text-align: left;
+}
+
+.mainCartTable table thead tr {
+  background-color: #f5f8fc;
+  color: #656b7b;
+}
+
+.mainCartTable table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+/* Child Cart Table */
+
+.cart-child-table {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.cart-child-table thead th {
+  /* border: 1px solid gray; */
+  border-bottom: 1px solid gray;
+  padding: 8px;
+  font-size: 0.8rem;
+}
+
+.cart-child-table tbody td {
+  /* border: 1px solid gray !important; */
+  border: none !important;
+  border-bottom: 1px solid gray !important;
+  padding: 8px !important;
+}
+
+.cart-table {
+  border: 1px solid gray;
+}
+
+.cart-table thead th {
+  background-color: white;
+  border: 1px solid gray;
+}
+
+.cart-table tbody td {
+  background-color: white;
+  border: 1px solid gray !important;
+}
+
+/* Main Wishlist Table */
+
+.mainWishlistTable table {
+  width: 100%;
+  overflow: auto;
+}
+
+.mainWishlistTable table tbody tr td {
+  border-bottom: 1px solid #e4e8ee;
+  padding: 14px 8px;
+  font-size: 0.87rem;
+  text-align: left;
+}
+
+.mainWishlistTable table thead tr th {
+  padding: 8px;
+  font-weight: 500;
+  font-size: 0.87rem;
+  text-align: left;
+}
+
+.mainWishlistTable table thead tr {
+  background-color: #f5f8fc;
+  color: #656b7b;
+}
+
+.mainWishlistTable table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+/* Global table header text and sorting icons left alignment override */
+.collectionTable table thead tr th > div,
+.productCategoryTable table thead tr th > div,
+.categoryTable table thead tr th > div,
+.parameterTable table thead tr th > div,
+.karatPurityTable table thead tr th > div,
+.vendorTable table thead tr th > div,
+.priceDiscountTable table thead tr th > div,
+.diamondMarginTable table thead tr th > div,
+.productTable table thead tr th > div,
+.uploadFilesTable table thead tr th > div,
+.sectionTable table thead tr th > div,
+.sectionTable2 table thead tr th > div,
+.rolePermissionTable table thead tr th > div,
+.roleCaption table thead tr th > div,
+.shippingTable table thead tr th > div,
+.taxTable table thead tr th > div,
+.langCurrTable table thead tr th > div,
+.customerTable table thead tr th > div,
+.diamonddetailTable table thead tr th > div,
+.abondendCheckoutTable table thead tr th > div,
+.mainCartTable table thead tr th > div,
+.mainWishlistTable table thead tr th > div {
+  justify-content: flex-start !important;
+}

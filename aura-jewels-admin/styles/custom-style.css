@@ -1,0 +1,11 @@
+.paid-box-div {
+  @apply grid grid-cols-2;
+}
+
+.selected-last {
+  @apply grid grid-cols-2;
+}
+
+.contact-container {
+  @apply flex justify-between;
+}
