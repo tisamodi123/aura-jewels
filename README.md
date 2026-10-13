@@ -88,9 +88,3 @@ cp .env.example .env
 npm install
 npm run dev
 # Admin dashboard runs on http://localhost:3001
-```
-
----
-
-## 📄 License
-This project is open-source and available under the [MIT License](LICENSE).
