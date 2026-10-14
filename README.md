@@ -1,4 +1,4 @@
-# 💎 Aura Jewels — Full-Stack Luxury E-Commerce Platform
+# 💎 Aura Jewels : Full-Stack Luxury E-Commerce Platform
 
 A production-grade, end-to-end fullstack e-commerce ecosystem built specifically for modern fine jewelry, lab-grown diamonds, and bespoke jewelry workflows. Designed with a high-performance Next.js storefront, a feature-rich Next.js management dashboard, and a resilient Express/MongoDB REST API.
 
